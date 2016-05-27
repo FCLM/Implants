@@ -14,6 +14,7 @@ Run planetside
 **Go to implants page**
 
 ** NB : WHEN YOU PRESS THESE HOTKEYS, THEY WILL RUN IMMEDIATELY.**
+
 Press F8 for crafterT1
 
 Press F9 for crafterT2
