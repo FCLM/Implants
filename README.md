@@ -7,7 +7,7 @@ Download from the repo as a zip
 
 Unzip
 
-Run CrafterT1/CrafterT2/Buyer.exe as ** Administrator ** The script may not work otherwise.
+Run CrafterT1/CrafterT2/Buyer.exe as **Administrator** The script may not work otherwise.
 
 Run planetside
 
