@@ -1,7 +1,7 @@
 # Implants
-Implant crafter and 5 Pack buyer for Planetside 2
+_Implant crafter and 5 Pack buyer for Planetside 2_
 
-How to :
+**How to :**
 
 Download from the repo as a zip
 
