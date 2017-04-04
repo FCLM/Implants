@@ -1,6 +1,8 @@
 # Implants
 _Implant crafter and 5 Pack buyer for Planetside 2_
 
+**NOTE : This set of scripts was for the original implant system (using Implant Energy.) This feature has since been changed, and as such this script is not needed **
+
 **How to :**
 
 Download from the repo as a zip
